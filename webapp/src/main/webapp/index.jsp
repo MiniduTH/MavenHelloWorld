@@ -1,3 +1,3 @@
-<h1> RahulShettyAcademy.com Learning</h1>
-<h2> Learn QA Automation tools + Devops Tools CI/CD pipelines in course from Scratch</h2>
-<h2> Good Luck and we are almost done with the course.Thankyou</h2>
+<h1>MiniduTH GitHub CI/CD Testing</h1>
+<h2>Testing CI/CD Pipeline with Maven</h2>
+<p>This application is being used to test continuous integration and deployment workflows.</p>
